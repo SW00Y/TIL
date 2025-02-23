@@ -12,7 +12,7 @@
 |2025-02-18(화)|[Git 팀 Repository, 팀 소개 페이지 작성, 스타터 노트](nbcamp(Spring_6)/md/2025-02-18-Tue.md)  
 |2025-02-19(수)|[Git 커밋 삭제, 반복되는 Html Jquery로 출력](nbcamp(Spring_6)/md/2025-02-19-Wed.md)           
 |2025-02-20(목)|[Git 호스팅 오류](nbcamp(Spring_6)/md/2025-02-20-Thu.md)                                      
-|2025-02-21(금)|--|
+|2025-02-21(금)|[프로젝트 발표](nbcamp(Spring_6)/md/2025-02-21-Fri.md)|
 |2025-02-22(${\textsf{\color{blue}토}}$)|--|
 |2025-02-23(${\textsf{\color{red}일}}$)|--|
 |2025-02-24(월)|--|
