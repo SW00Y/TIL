@@ -20,7 +20,15 @@
 |2025-02-26(수)|[프로그래밍 기본 주차, 계산기 만들기2](nbcamp(Spring_6)/md/2025-02-26-Wed.md)|
 |2025-02-27(목)|[프로그래밍 기본 주차, 계산기 만들기3](nbcamp(Spring_6)/md/2025-02-27-Thu.md)|
 |2025-02-28(금)|[프로그래밍 기본 주차, 계산기 만들기4](nbcamp(Spring_6)/md/2025-02-28-Fri.md)|
+</details>
 
+<details>
+<summary>2025-03</summary>
 
+## 3월
+
+|Date|Content|
+|---|---|
+|2025-03-04(화)|[프로그래밍 기본 주차, 계산기 만들기(심화)](nbcamp(Spring_6)/md/2025-03-04-Tue.md)|
 
 </details>
