@@ -30,6 +30,6 @@
 |Date|Content|
 |---|---|
 |2025-03-04(화)|[프로그래밍 기본 주차, 계산기 만들기(심화)](nbcamp(Spring_6)/md/2025-03-04-Tue.md)|
-|2025-03-05(수)|[계산기 과제 ReadMe](nbcamp(Spring_6)/md/2025-03-05-Web.md)|
+|2025-03-05(수)|[계산기 과제 ReadMe](nbcamp(Spring_6)/md/2025-03-05-Wed.md)|
 
 </details>
