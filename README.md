@@ -42,5 +42,5 @@
 |2025-03-14(금)|[키오스크 과제 종료](nbcamp(Spring_6)/md/2025-03/2025-03-14-Fri.md)|
 |2025-03-17(월)|[Spring 입문 1주차 강의](nbcamp(Spring_6)/md/2025-03/2025-03-17-Mon.md)|
 |2025-03-18(화)|[Spring 입문 2주차 강의](nbcamp(Spring_6)/md/2025-03/2025-03-18-Tue.md)|
-|2025-03-19(수)|[Spring 입문 3주차 강의](nbcamp(Spring_6)/md/2025-03/2025-03-19-Web.md)|
+|2025-03-19(수)|[Spring 입문 3주차 강의](nbcamp(Spring_6)/md/2025-03/2025-03-19-Wed.md)|
 </details>
