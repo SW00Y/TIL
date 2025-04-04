@@ -68,7 +68,7 @@ src
 
 ## API 문서 - 바로가기
 
-[![alt text](../../img/20250404002.png)](../../img/20250404003.html)
+[![alt text](../../img/20250404002.png)](https://sw00y.github.io/ch3-jpaboard/)
 
 ## ERD
 
